@@ -1,6 +1,4 @@
-#Gabriel Kirakossian (ID: 20212381)
-#Firas El Kheshen (ID: 20214046)
-#Jean-marie Mattar (ID: 20212816)
+#Firas El Kheshen 
 
 #Rock Paper Scissors Game
 
